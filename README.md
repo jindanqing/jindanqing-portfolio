@@ -1,8 +1,8 @@
-# 金丹青｜秋招作品集（平铺上传版）
+# 金丹青｜秋招作品集｜白屏修复版
 
-这个包里的所有文件均在同一层，不含 assets 文件夹。
+本包所有文件均为平铺结构，适用于 GitHub 网页端上传。
 
-## 上传方式
-在 GitHub 仓库点击 **Add file → Upload files**，全选本文件夹里所有文件上传到仓库根目录，然后在 **Settings → Pages** 设置 `main` / `/(root)`。
-
-访问链接：`https://jindanqing.github.io/jindanqing-portfolio/`
+1. 在仓库根目录删除当前旧文件；
+2. 进入本包解压后的文件夹，Command + A 全选所有文件；
+3. 上传至仓库根目录并 Commit；
+4. 等待 Pages 重新部署后访问 https://jindanqing.github.io/jindanqing-portfolio/ 。
