@@ -1,14 +1,8 @@
-# 金丹青｜秋招作品集
+# 金丹青｜秋招作品集（平铺上传版）
 
-这是 GitHub Pages 公网发布包。
+这个包里的所有文件均在同一层，不含 assets 文件夹。
 
-## 一次性发布步骤
-1. 打开仓库 `https://github.com/jindanqing/jindanqing-portfolio`。
-2. 点击 **Add file → Upload files**，将本文件夹中的全部文件上传到仓库根目录（不是上传本 README 或压缩包本身）。
-3. 等待上传完成并点击 **Commit changes**。
-4. 打开 **Settings → Pages**。
-5. 在 **Build and deployment** 下选择 **Deploy from a branch**，Branch 选 **main**，文件夹选 **/(root)**，点击 **Save**。
-6. 约 1–3 分钟后，访问：`https://jindanqing.github.io/jindanqing-portfolio/`。
+## 上传方式
+在 GitHub 仓库点击 **Add file → Upload files**，全选本文件夹里所有文件上传到仓库根目录，然后在 **Settings → Pages** 设置 `main` / `/(root)`。
 
-## 注意
-本页面会公开展示邮箱、手机号与微信号；作品图中的业务数据已按当前版本处理。
+访问链接：`https://jindanqing.github.io/jindanqing-portfolio/`
